@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(193, 55, 115);
+    color:black
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.subparrafo{
+    font-size: 1.5em;
+}
+#final{ 
+    color: greenyellow
+}
